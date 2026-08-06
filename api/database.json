@@ -1,0 +1,26 @@
+{
+  "keys": [
+    {
+      "key": "TEST-1234-5678-ABCD",
+      "name": "Test User",
+      "expiry": "2026-12-31 23:59:59",
+      "daemon": 1,
+      "hide_root": 1,
+      "banned": false,
+      "created": "2024-01-01"
+    },
+    {
+      "key": "DEMO-9876-5432-WXYZ",
+      "name": "Demo User", 
+      "expiry": "2025-06-15 23:59:59",
+      "daemon": 1,
+      "hide_root": 0,
+      "banned": false,
+      "created": "2024-06-01"
+    }
+  ],
+  "settings": {
+    "maintenance_mode": false,
+    "offline_message": "Server under maintenance"
+  }
+}
