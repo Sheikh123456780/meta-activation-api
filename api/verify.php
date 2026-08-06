@@ -2,7 +2,7 @@
 header('Content-Type: application/json');
 
 // === DATABASE - GitHub RAW file se ===
-$db_url = "https://raw.githubusercontent.com/TUMHARA_USERNAME/meta-activation-api/main/database.json";
+$db_url = "https://raw.githubusercontent.com/Sheikh123456780/meta-activation-api/refs/heads/main/api/database.json";
 $db = json_decode(file_get_contents($db_url), true);
 
 // === INPUT LE ===
