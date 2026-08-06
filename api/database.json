@@ -6,21 +6,15 @@
       "expiry": "2026-12-31 23:59:59",
       "daemon": 1,
       "hide_root": 1,
-      "banned": false,
-      "created": "2024-01-01"
+      "banned": false
     },
     {
-      "key": "DEMO-9876-5432-WXYZ",
-      "name": "Demo User", 
-      "expiry": "2025-06-15 23:59:59",
+      "key": "LIFETIME-KEY-2024",
+      "name": "Admin",
+      "expiry": "",
       "daemon": 1,
-      "hide_root": 0,
-      "banned": false,
-      "created": "2024-06-01"
+      "hide_root": 1,
+      "banned": false
     }
-  ],
-  "settings": {
-    "maintenance_mode": false,
-    "offline_message": "Server under maintenance"
-  }
+  ]
 }
